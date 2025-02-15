@@ -84,8 +84,8 @@ Install Aerospace:
 Config location: ~/.config/borders
 
 Install JankyBorders:
-```brew tap FelixKratz/formulae
-brew install borders```
+```brew tap FelixKratz/formulae```
+```brew install borders```
 
 Start JankyBorders with Homebrew:
 ```brew services start borders```
