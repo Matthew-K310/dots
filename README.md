@@ -7,18 +7,22 @@ Requirements
 - Git
 - Homebrew 
 
+Install Homebrew:
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
 - Yazi file manager
 
+Install Yazi:
 ```brew install yazi ffmpeg sevenzip jq poppler fd ripgrep fzf zoxide imagemagick font-symbols-only-nerd-font```
 
 - Neovim
 
+Install Neovim:
 ```brew install neovim```
 
 - Tmux
 
+Install Tmux:
 ```brew install tmux```
 
 Some of the packages built in to the config include:
