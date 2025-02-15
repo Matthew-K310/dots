@@ -19,12 +19,14 @@ Requirements
 Install Homebrew:
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
+
 - Yazi file manager
 
 Config location: ~/.config/yazi
 
 Install Yazi:
 ```brew install yazi ffmpeg sevenzip jq poppler fd ripgrep fzf zoxide imagemagick font-symbols-only-nerd-font```
+
 
 - Neovim (the greatest text editor)
 
@@ -33,12 +35,14 @@ Config location: ~/.config/nvim
 Install Neovim:
 ```brew install neovim```
 
+
 - Tmux terminal multiplexer
 
 Config location: ~/.config/tmux
 
 Install Tmux:
 ```brew install tmux```
+
 
 - Oh My Posh shell prompt styling
 
@@ -47,6 +51,7 @@ Config location: ~/.config/ohmyposh
 Install Oh My Posh:
 ```brew install jandedobbeleer/oh-my-posh/oh-my-posh```
 
+
 - Ghostty terminal (my primary)
 
 Config location: ~/.config/ghostty
@@ -54,12 +59,14 @@ Config location: ~/.config/ghostty
 Install Ghostty:
 ```brew install --cask ghostty```
 
+
 - kitty terminal (my secondary)
 
 Config location: ~/.config/kitty
 
 Install kitty:
 ```brew install kitty```
+
 
 - SketchyBar status bar
 
@@ -72,12 +79,14 @@ Install SketchyBar:
 To start SketchyBar with Homebrew:
 ```brew services start sketchybar```
 
+
 - Aerospace tiling window manager
 
 Config location: ~/.config/aerospace
 
 Install Aerospace:
 ```brew install --cask nikitabobko/tap/aerospace```
+
 
 - JankyBorders window borders
 
@@ -89,6 +98,7 @@ Install JankyBorders:
 
 Start JankyBorders with Homebrew:
 ```brew services start borders```
+
 
 Some of the packages built in to the config include:
 
