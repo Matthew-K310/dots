@@ -66,8 +66,8 @@ Install kitty:
 Config location: ~/.config/sketchybar
 
 Install SketchyBar:
-```brew tap FelixKratz/formulae 
-brew install sketchybar```
+```brew tap FelixKratz/formulae```
+```brew install sketchybar```
 
 To start SketchyBar with Homebrew:
 ```brew services start sketchybar```
